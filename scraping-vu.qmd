@@ -1,7 +1,9 @@
 ---
 title: "scraping-vu"
 author: "Stan Brouwer"
-format: html
+format: 
+  html:
+    self-contained: true
 editor: visual
 output-dir: docs
 ---

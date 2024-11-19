@@ -3,6 +3,7 @@ title: "scraping-vu"
 author: "Stan Brouwer"
 format: html
 editor: visual
+output-dir: docs
 ---
 
 While browsing the VU website, I found their "Studiegids" to be a pain.\

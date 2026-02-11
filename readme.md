@@ -9,7 +9,7 @@ Follow the links to the
 
 <div class="container">
   <img 
-    src="{{ '/assets/img/posts/scraping-vu.png' | relative_url }}" 
+    src="https://stanbrouwer.com/assets/img/posts/scraping-vu.png" 
     alt="Why is querying the period impossible?!" 
     class="img-fluid image-bordered"
     style="width: 100%; border-radius: 8px;">
